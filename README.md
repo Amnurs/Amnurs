@@ -1,4 +1,3 @@
-
 -👋 Hi, I'm @Amnurs
 -👀 I'm interested in Programmer
 -🌱 I'm studying a miracle
